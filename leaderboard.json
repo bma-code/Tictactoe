@@ -1,0 +1,10 @@
+[
+  {
+    "name": "TestPlayer",
+    "wins": 0,
+    "losses": 1,
+    "draws": 0,
+    "totalGames": 1,
+    "winRate": 0
+  }
+]
